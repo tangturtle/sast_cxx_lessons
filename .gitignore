@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+# clangd cache files
+*.cache
+
+# Cmake build files
+build/
