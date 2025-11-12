@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"D:\\Project\\sast_cxx_lessons\\00-vibe-coding\"\" 2>&1 || echo \"Directory needs to be checked \")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
